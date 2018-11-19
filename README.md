@@ -7,12 +7,12 @@ If their location is on your path, you may be able to call them as commands from
 
 ## install and requirements
 
-###R
+### R
     install.packages('ape')
     install.packages('phytools')
     install.packages('igraph')
 
-###Python 3.3+
+### Python 3.3+
 Biopython is required. 
     pip install biopython
 
