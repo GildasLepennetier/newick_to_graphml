@@ -21,7 +21,7 @@ Biopython is required.
 
 ## usage
 
-If executable (chmod +x) and in the path, you can call the functions using the name of the scrips. 
+If script directory is in the path, you can call the functions using the name of the scrips (remember to check if they are executable, use: chmod +x). 
 They will discplay an help message explaining for to use them.
 
 Use them in this order:
