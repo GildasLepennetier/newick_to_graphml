@@ -14,6 +14,7 @@ If their location is on your path, you may be able to call them as commands from
 
 ### Python 3.3+
 Biopython is required. 
+
     pip install biopython
 
 (check https://biopython.org)
@@ -25,8 +26,8 @@ They will discplay an help message explaining for to use them.
 
 Use them in this order:
 
-> newick_fixInternal_nodes.py <IN.newick> <OUT.newick>
-> newick2graphml.R <infile.newick> <outfile.graphml>
+    newick_fixInternal_nodes.py <IN.newick> <OUT.newick>
+    newick2graphml.R <infile.newick> <outfile.graphml>
 
 The first function create proper ID for internal nodes (use their index).
 The second one use the power of R to convert to graphml format.
