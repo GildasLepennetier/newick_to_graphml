@@ -1,5 +1,8 @@
 # newick_to_graphml
 
+The scripts/logic was integrated in the official Cytoscape documentations
+there: http://cytoscape.org/cytoscape-automation/for-scripters/R/notebooks/Phylogenetic-trees.nb.html
+
 ## description
 
 Those are two scripts to use if you want to make the conversion.
